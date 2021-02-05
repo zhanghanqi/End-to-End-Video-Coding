@@ -83,7 +83,7 @@
 解决方案：针对错误传播问题，在训练阶段对率失真损失进行改进**
 
 $$
-L^T=\frac{1}{T}\displaystyle\sum^{T}_{t=1}L_t=\frac{1}{T}\displaystyle\sum^{T}_{t=1}\{\lambdad(x_t,\hat{x}_t)+[H(\hat{y}_t)+H(\hat{m}_t)]\}
+L^T=\frac{1}{T}\displaystyle\sum^{T}_{t=1}L_t=\frac{1}{T}\displaystyle\sum^{T}_{t=1}\{\lambda d(x_t,\hat{x}_t)+[H(\hat{y}_t)+H(\hat{m}_t)]\}
 $$
 
 > 内容自适应
