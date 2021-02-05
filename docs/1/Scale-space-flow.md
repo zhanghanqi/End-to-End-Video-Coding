@@ -1,0 +1,1 @@
+# Scale-space flow for end-to-end optimized video compression - CVPR2020
