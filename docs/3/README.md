@@ -1,3 +1,3 @@
 # Autoencoder
 
-> An awesome proj.
+> **思想**： 
