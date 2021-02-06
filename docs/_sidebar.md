@@ -1,5 +1,5 @@
 
-- [**1. Motion Compensation(7/4)**](1/)
+- [**1. Hybrid Coding Framework(7/4)**](1/)
     - [1.1 DVC](1/DVC.md)
     - [1.2 M-LVC](1/M-LVC.md)
     - [1.3 RaFC](1/RaFC.md)
