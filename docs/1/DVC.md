@@ -25,7 +25,7 @@
     				display: inline-block;
     				color: #999;
     				padding: 2px;">
-                    <b>图2DVC</b>
+                    <b>图 2DVC</b>
                 </div>
     			<br>
             </center>
